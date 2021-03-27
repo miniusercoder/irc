@@ -14,6 +14,11 @@ Copy the repository to local
 git clone https://github.com/miniusercoder/irc
 ```
 
+Install the requirements
+```bash
+pip3 install -r requirements.txt
+```
+
 Start the server
 
 ```bash
