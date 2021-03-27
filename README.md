@@ -1,6 +1,6 @@
 # IRC client-server
 
-## Requires
+## Requirements on the server
 
 - Open port 9885 on server
 - Python3.x
