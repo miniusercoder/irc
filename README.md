@@ -23,11 +23,12 @@ Start the server
 
 ```bash
 cd irc
-python3 start server.py
+python3 server.py
 ```
 
 Start the client and connect to the server
 
 ```bash
-python3 start client.py
+cd irc
+python3 client.py
 ```
